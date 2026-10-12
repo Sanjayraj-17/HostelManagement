@@ -1,0 +1,21 @@
+## Ignore Visual Studio temporary files, build results, and hidden files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+## Rider
+.idea/
+
+## ASP.NET
+appsettings.*.json
+
+## OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+__MACOSX
